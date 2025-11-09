@@ -13,7 +13,8 @@ main{
 .square{
 	border:1px solid black;
 	height:15px;
-	background-color: gray;
+	background-color: rgb(29, 29, 29);
+	opacity: 0.5;
 }
 
 .reset{

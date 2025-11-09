@@ -10,7 +10,7 @@ for(let i=0; i<800; i++){
 		div.style.backgroundColor = colors[Math.floor(Math.random() * 10)]
 	})
 	div.addEventListener("mouseout", () => {
-		div.style.backgroundColor = "gray";
+		div.style.backgroundColor = "rgb(29, 29, 29)";
 		div.classList.add("reset")
 	})
 }
